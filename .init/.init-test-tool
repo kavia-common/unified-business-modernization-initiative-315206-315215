@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/unified-business-modernization-initiative-315206-315215/modernization_backend"
+}
